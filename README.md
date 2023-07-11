@@ -2,9 +2,13 @@
 
 3 adet sayfa üzerinden gerçekleştirilen çalışmaları içerir Bunlar;
 
+```
 • _lineer-regression.py_
+
 • _non-lineer-regression.py_
+
 • _non-lineer-regression-3d-plot.py_
+```
 
 şeklindedir.
 
